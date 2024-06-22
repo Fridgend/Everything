@@ -1,0 +1,3 @@
+/home/rpitrn/Desktop/Planets/build/CMakeFiles/Planets.dir
+/home/rpitrn/Desktop/Planets/build/CMakeFiles/edit_cache.dir
+/home/rpitrn/Desktop/Planets/build/CMakeFiles/rebuild_cache.dir

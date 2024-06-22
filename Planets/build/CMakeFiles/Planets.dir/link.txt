@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Planets.dir/current/revised.cpp.o -o Planets  /usr/lib/aarch64-linux-gnu/libSDL2.so /usr/lib/aarch64-linux-gnu/libSDL2_image.so /usr/lib/aarch64-linux-gnu/libSDL2_mixer.so /usr/lib/aarch64-linux-gnu/libGL.so /usr/lib/aarch64-linux-gnu/libGLU.so 

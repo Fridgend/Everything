@@ -1,0 +1,3 @@
+/home/rpitrn/Desktop/OGLT/build/CMakeFiles/OGLT.dir
+/home/rpitrn/Desktop/OGLT/build/CMakeFiles/edit_cache.dir
+/home/rpitrn/Desktop/OGLT/build/CMakeFiles/rebuild_cache.dir
