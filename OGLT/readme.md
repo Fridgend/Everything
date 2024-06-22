@@ -4,3 +4,5 @@ This project's purpose was just to learn OpenGL since I am currently working on 
 
 # What is OpenGL and SDL2?
 OpenGL and SDL2 are two libraries used in computer graphics, and in my case (and many others), game development. SDL2 runs on the CPU and can manage simpler textures, but if you really want to make something that looks good, OpenGL is usually included as it runs on the GPU and can generate higher quality. SDL2 and OpenGL are often used together, especially in game development.
+
+This project was written entirely in C++ and some GLSL and CMake.
