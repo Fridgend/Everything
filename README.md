@@ -13,11 +13,11 @@ Hello, my name is Theodor, and I am a self-taught programmer who loves to make u
 - Also some experience in HTML, CSS, Lua, GLSL and C#.
 
 ### Problem Solving
-- I enjoy solving complicated problems where advanced algorithms may be included (such as LogicGates).
+- I enjoy solving complicated problems where advanced algorithms may be included (such as in the LogicGates project).
 - I have explored and love using many pathfinding algorithms such as A* (A-star), Dijkstra, Depth-first search, and Breadth-first search.
 
 ### Artificial Intelligence 
-- I have a deep understanding of how neural networks work to form an AI.
+- I have a deep understanding of how neural networks work to form AI.
 - I also have experience of using the genetic algorithm to find optimized solutions. 
 - Unfortunately, these projects are both on the computer that I can not access right now.
 
@@ -32,5 +32,5 @@ I am currently working on a game with a concept I find really interesting. In sh
 
 LogicGates was developed last year, OGLT and Planets were developed this year, and CHBot was developed 2-3 years ago.
 
-### Each project has a Readme file
-The readme file explains the project simply.
+### Each project has a README file
+The README file explains the project simply.
