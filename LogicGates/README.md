@@ -15,7 +15,7 @@ I also wanted to try to solve this problem, and I did so using an A* (A-star) pa
 - It deepend my knowledge of the A* (A-star) pathfinding algorithm and how you can implement it in a scenario like this one.
 - I think this was my first ever C++ project, and I think it’s safe to say that I gained most of my knowledge of C++ from here.
 
-Anyway, it was a while since I last touched this project and I don't really dare to touch anything else as of right now. It works for easy problems, but takes an unreasonable amount of time for some slightly more difficult problems.
+Anyway, it was a while since I last touched this project and I don't really dare to touch anything else as of right now. It (sometimes) works for easy problems, but takes an unreasonable amount of time for some slightly more difficult ones.
 I used CLion to write it, hence the .idea folder.
 
 ### Written in...
