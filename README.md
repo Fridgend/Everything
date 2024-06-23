@@ -25,10 +25,10 @@ Hello, my name is Theodor, and I am a self-taught programmer who loves to make u
 I am currently working on a game with a concept I find really interesting. In short, the game is about the human civilization’s exploration and expansion into space. To make the game, I have been trying to learn OpenGL, SDL2, and how procedural generation works. 
 
 ## Projects in this repository
-- CHBot: A discord bot from a while back. Made using Node.js and the discord API.
-- LogicGates: A project made to solve a problem presented in one of Sebastian Lague’s videos.
-- OGLT: My learning journey of OpenGL in C++ for graphics and game development.
-- Planets: A C++ program made to procedurally generate a planet using noise.
+- **CHBot:** A discord bot from a while back. Made using Node.js and the discord API.
+- **LogicGates:** A project made to solve a problem presented in one of Sebastian Lague’s videos.
+- **OGLT:** My learning journey of OpenGL in C++ for graphics and game development.
+- **Planets:** A C++ program made to procedurally generate a planet using noise.
 
 LogicGates was developed last year, OGLT and Planets were developed this year, and CHBot was developed 2-3 years ago.
 
