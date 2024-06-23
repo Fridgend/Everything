@@ -11,5 +11,10 @@ In the `current` folder, you can find the most recent version of the generator.
 - There's still lots of optimization to do. I think what I'd do next performance-wise would be to rethink the way the sphere's vertices are generated seeing as the current way of doing it makes it really difficult to generate high-quality terrain.
 - I would also like to work a little bit on how the planet actually looks, since it is currently looking really bad due to the lower amount of vertices. I've been thinking about maybe trying to smooth out the surface a bit more. I do think the previous future improvement could also be beneficial here.
 
+## What I learned:
+- I have developed a deeper understanding in noise modules and more about Perlin noise.
+- I have been able to use what I learned from OGLT to use OpenGL to optimize the code.
+- In the Planets project, I took a different approach than usual and instead slowly made new versions and improvements as I was developing it.
+
 ### Written in...
 This project was written entirely in C++ and some GLSL and CMake.
