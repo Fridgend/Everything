@@ -4,8 +4,11 @@ In the video he quickly explains how he designed an algorithm to, using only log
 I also wanted to try to solve this problem, and I did so using an A* (A-star) pathfinding algorithm to try to find the fastest way to the solution. I soon realized quite a few issues with this approach and so I've been wanting to rewrite it so that it uses a genetic algorithm instead (which also happens to be what he used in the video).
 
 ## Challenges:
+- The main issue with the current version of this project is how slow and inefficient it is. There's a problem where it will explore certain solutions that look better for a very long time before realizing it is quite bad. Even if the solution is just one singular gate, it might try to explore a lot of other solutions before that one and find that the solutions it has explored look promising, so it continues exploring them, pushing the actual solution further and further down.
 
 ## Improvements for the future:
+- I'd like to see if I could optimize the current code any more, and try to fix the issue stated previously.
+- I would also like to try a few different approaches. First I'd like to try a genetic algorithm to see if it would be a better fit for this problem.
 
 ## What I learned:
 - Working on this project taught me a lot about how a computer and logic gates work.
