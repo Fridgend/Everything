@@ -6,7 +6,11 @@ The discord bot was made for a discord server that is no longer active. It was m
 - I remember I wanted to add a logging system to the bot, one that would tell you when a user joined or left, or when a channel name was updated, or when a user's roles were updated. This was when I started getting more comfortable with the API, and I think this was one of the first big things I implemented on my own. I wanted it to be able to detect the different events in the server. I remember, however, that implementing the system for detecting changes in roles and permissions was a living hell. I remember staying up super late just reading through the Discord API documentation, desperately looking for what I was doing wrong. I don't fully remember what it was but eventually I got it working perfectly. After that, I swore to never change those lines of code. 
 
 ## Improvements for the future:
-- It was a while ago since CHBot was running, but I remember testing its functionalities and finding that one of the commands had actually stopped working, being the /clear command used to remove a certain number of messages from a channel. I think the /ban command also doesn't work properly since one of it's options (being to clear recent messages from the user to be banned), had also stopped working. I'm guessing Discord made some changes to how those things work, and so if I were to pick this project up again sometime, I'd work on that.
+- It was a while ago since CHBot was running, but I remember testing its functionalities and finding that one of the commands had actually stopped working, being the /clear command used to remove a certain number of messages from a channel. I think the /ban command also doesn't work properly since one of it's options (being to clear recent messages from the user to be banned), had also stopped working. I'm guessing Discord made some changes to how those things work, so if I were to pick this project up again sometime, I'd work on that.
+
+## What I learned:
+- From working on CHBot, I developed a deep understanding of the Discord API and how to use it to implement certain features..
+- I also became more confident in JavaScript and Node.js, since it was still quite new to me at the time.
 
 ### Written in...
 This project is written entirely in JavaScript (more specifically Node.js).
