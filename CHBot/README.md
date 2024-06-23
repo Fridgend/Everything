@@ -2,7 +2,7 @@
 This is a discord bot that I designed a few years back with the help of some popular YouTube tutorials. It started out as just me trying to learn the discord bot API using these tutorials, but as I became more confident, more and more of this project became my own work.
 The discord bot was made for a discord server that is no longer active. It was made mainly to make the life of moderators easier, but also had a few features designed for the community. 
 
-**NOTE:** This is an older version of the bot, the newest version is gone because of something that happened rather recently. It's a long story, but I'll try to summarize:
+**NOTE:** This is an older version of the bot, the newest version is gone because of something that happened rather recently. I'll refer to this later on as "The Incident". It's a long story, but I'll try to summarize:
 At some point, my Raspberry Pi (where the newest version was stored) ran into some fatal error that forced me to factory reset the device. I was able to upload a few things to my Google Drive before that, but the CHBot folder was too big. Seeing as it was no longer online anyway, I just ignored it and began the factory reset.
 
 ## Challenges:
@@ -14,6 +14,7 @@ At some point, my Raspberry Pi (where the newest version was stored) ran into so
 ## What I learned:
 - From working on CHBot, I developed a deep understanding of the Discord API and how to use it to implement certain features.
 - I also became more confident in JavaScript and Node.js, since it was still quite new to me at the time.
+- I also now know how to use the scp command in command prompt to transfer files to different devices rather than to Google Drive. If only I knew of it before The Incident...
 
 ### Written in...
 This project is written entirely in JavaScript (more specifically Node.js).
