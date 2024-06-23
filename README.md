@@ -10,7 +10,7 @@ Hello, my name is Theodor, and I am a self-taught programmer who loves to make u
 ### Languages
 - Proficient in Python and C++.
 - Lots of experience in Node.js as well
-- Also some experience in HTML, CSS, Lua, GLSL and C#.
+- Also some experience in HTML, CSS, Lua, GLSL, C#, and Java.
 
 ### Problem Solving
 - I enjoy solving complicated problems where advanced algorithms may be included (such as in the LogicGates project).
