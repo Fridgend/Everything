@@ -9,7 +9,7 @@ The discord bot was made for a discord server that is no longer active. It was m
 - It was a while ago since CHBot was running, but I remember testing its functionalities and finding that one of the commands had actually stopped working, being the /clear command used to remove a certain number of messages from a channel. I think the /ban command also doesn't work properly since one of it's options (being to clear recent messages from the user to be banned), had also stopped working. I'm guessing Discord made some changes to how those things work, so if I were to pick this project up again sometime, I'd work on that.
 
 ## What I learned:
-- From working on CHBot, I developed a deep understanding of the Discord API and how to use it to implement certain features..
+- From working on CHBot, I developed a deep understanding of the Discord API and how to use it to implement certain features.
 - I also became more confident in JavaScript and Node.js, since it was still quite new to me at the time.
 
 ### Written in...
