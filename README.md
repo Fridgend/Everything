@@ -30,5 +30,7 @@ I am currently working on a game with a concept I find really interesting. In sh
 - OGLT: My learning journey of OpenGL in C++ for graphics and game development.
 - Planets: A C++ program made to procedurally generate a planet using noise.
 
+LogicGates was developed last year, OGLT and Planets were developed this year, and CHBot was developed 2-3 years ago.
+
 ### Each project has a Readme file
 The readme file explains the project simply.
