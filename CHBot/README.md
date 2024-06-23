@@ -1,6 +1,8 @@
 # CHBot
 This is a discord bot that I designed a few years back with the help of some popular YouTube tutorials. It started out as just me trying to learn the discord bot API using these tutorials, but as I became more confident, more and more of this project became my own work.
-The discord bot was made for a discord server that is no longer active. It was made mainly to make the life of moderators easier, but also had a few features designed for the community. NOTE: This is an older version of the bot, the newest version is gone because of something that happened rather recently. It's a long story, but I'll try to summarize:
+The discord bot was made for a discord server that is no longer active. It was made mainly to make the life of moderators easier, but also had a few features designed for the community. 
+
+NOTE: This is an older version of the bot, the newest version is gone because of something that happened rather recently. It's a long story, but I'll try to summarize:
 At some point, my Raspberry Pi (where the newest version was stored) ran into some fatal error that forced me to factory reset the device. I was able to upload a few things to my Google Drive before that, but the CHBot folder was too big. Seeing as it was no longer online anyway, I just ignored it and began the factory reset.
 
 ## Challenges:
