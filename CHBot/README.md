@@ -5,6 +5,8 @@ The discord bot was made for a discord server that is no longer active. It was m
 **NOTE:** This is an older version of the bot, the newest version is gone because of something that happened rather recently. I'll refer to this later on as "The Incident". It's a long story, but I'll try to summarize:
 At some point, my Raspberry Pi (where the newest version was stored) ran into some fatal error that forced me to factory reset the device. I was able to upload a few things to my Google Drive before that, but the CHBot folder was too big. Seeing as it was no longer online anyway and the server it was for was no longer active, I just ignored it and began the factory reset.
 
+**NOTE 2:** There's a config file that I have removed from the repository because it includes the bot token.
+
 ## Challenges:
 - I remember I wanted to add a logging system to the bot, one that would tell you when a user joined or left, or when a channel name was updated, or when a user's roles were updated. This was when I started getting more comfortable with the API, and I think this was one of the first big things I implemented on my own. I wanted it to be able to detect the different events in the server. I remember, however, that implementing the system for detecting changes in roles and permissions was a living hell. I remember staying up super late just reading through the Discord API documentation, desperately looking for what I was doing wrong. I don't fully remember what it was but eventually I got it working perfectly. After that, I swore to never change those lines of code. Unfortunately, this functionality is not included in this older version, althought it's probably for the better since those lines of code were probably pretty ugly.. 
 
